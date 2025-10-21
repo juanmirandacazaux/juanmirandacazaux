@@ -3,7 +3,7 @@
 Juan Miranda | Frontend Developer
 Montevideo, Uruguay · Durazno Studio
 
-I’m passionate about creating clean, usable, and accessible interfaces — combining creativity and logic to build web experiences that delight users and work seamlessly.
+I’m passionate about creating clean, usable, and accessible interfaces combining creativity and logic to build web experiences that delight users and work seamlessly.
 
 With strong knowledge of HTML5, CSS3, JavaScript, and React, I’ve designed and developed online stores, landing pages, interactive portfolios, and more.
 
@@ -24,4 +24,4 @@ Check out my repositories like reactCoder, Portfolio Project, and more here on G
 
 📬 Let’s connect!
 
-You can reach me via GitHub, LinkedIn, or email — I’m always open to collaborations, ideas, and new challenges.
+You can reach me via GitHub, LinkedIn, or email. I’m always open to collaborations, ideas, and new challenges.
